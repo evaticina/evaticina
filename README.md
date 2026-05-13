@@ -1,16 +1,23 @@
-## Hi there 👋
+# Hi, I'm Eva Ticina
 
-<!--
-**evaticina/evaticina** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am a PhD researcher at Comenius University. My dissertation is "Artificial Intelligence for Business Decision-Making".
 
-Here are some ideas to get you started:
+I develop explainable AI for workflow automation that supports decision-making in businesses. 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I also prepare to transition to the longevity research field from the perspective of computational biology.
+
+My current research interests include:
+
+- Explainable AI systems
+- Machine learning
+- AI workflow automation
+- AI for business decision-making
+- Decision support systems
+- Longevity research
+- Computational biology
+
+## Contact
+
+evaticina@gmail.com
+
+https://sk.linkedin.com/in/eva-ticina-088a04206

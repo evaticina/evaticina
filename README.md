@@ -22,7 +22,7 @@ My current research interests include:
 
 1. Neural Semantic Retrieval Manifold (NSRM) for Sustainable Document-Centric Decision Making
 - It is a novel AI-based retrieval approach that reconceptualizes document retrieval as a dynamic process of semantic navigation.
-- Funded by Grand.
+- Funded by an internal young researchers grant.
 
 2. Allocating AML Analyst Attention: An Explainable Ranking System for Suspicious Transaction Graphs
 - This paper presents an explainable AI-driven AML triage system that ranks, explains, and prioritizes suspicious blockchain transaction subgraphs under limited analyst review capacity.

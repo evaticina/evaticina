@@ -18,6 +18,13 @@ My current research interests include:
 - Computational biology
 - Epigenetic reprogramming
 
+## Latest works:
+
+1. Allocating AML Analyst Attention: An Explainable Ranking System for Suspicious Transaction Graphs
+- This paper presents an explainable AI-driven AML triage system that ranks, explains, and prioritizes suspicious blockchain transaction subgraphs under limited analyst review capacity.
+
+2. Neural Semantic Retrieval Manifold (NSRM) for Sustainable Document-Centric Decision Making
+- It is a novel AI-based approach that reconceptualizes document retrieval as a dynamic process of semantic navigation. 
 
 ## Contact
 

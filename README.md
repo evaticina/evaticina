@@ -1,4 +1,4 @@
-# Hi, I'm Eva Ticina, 25
+# Hi, I'm Eva Ticina
 
 I am a final year PhD researcher at Comenius University in Bratislava. My dissertation is "Artificial Intelligence for Data-Driven Business Decision-Making".
 
@@ -14,11 +14,14 @@ My current research interests include:
 - AI workflow automation
 - AI for business decision-making
 - Decision support systems
+
 - Longevity research
 - Computational biology
+- Epigenetic reprogramming
 
 ## Contact
 
+ticina1@uniba.sk
 evaticina@gmail.com
 
 https://sk.linkedin.com/in/eva-ticina-088a04206

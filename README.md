@@ -4,7 +4,7 @@ I am a final year PhD researcher at Comenius University in Bratislava. My disser
 
 I develop explainable AI-tools and methods for data analysis that support human decision-making. 
 
-I also prepare to transition to the longevity research field as a data analysis support.
+I am also preparing to transition into longevity research, with a focus on computational biology and aging-related data analysis.
 
 My current research interests include:
 

@@ -30,7 +30,8 @@ My current research interests include:
 3. A Proposal for AI-Driven Method for Strategic Business Decision-Making
 - This paper proposes using AI to improve the business decision-making process, implemented within the Dara framework using the CausalNex model and integrating the interpretation of model results via ChatGPT-4.
 
-4. 
+4. Data Analysis Methods Encyclopedia
+- A comprehensive encyclopedia of data analysis methods that systematically documents classical, modern, emerging, and experimental approaches across data science, AI, business, bioinformatics, and quantum computing, while providing a foundation for discovering and inventing new hybrid methods.
 
 ## Contact
 

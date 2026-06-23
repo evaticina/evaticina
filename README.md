@@ -14,7 +14,6 @@ My current research interests include:
 - AI workflow automation
 - AI for business decision-making
 - Decision support systems
-And:
 - Longevity research
 - Computational biology
 - Epigenetic reprogramming

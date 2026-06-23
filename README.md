@@ -14,14 +14,16 @@ My current research interests include:
 - AI workflow automation
 - AI for business decision-making
 - Decision support systems
-
+And:
 - Longevity research
 - Computational biology
 - Epigenetic reprogramming
+
 
 ## Contact
 
 ticina1@uniba.sk
 evaticina@gmail.com
 
-https://sk.linkedin.com/in/eva-ticina-088a04206
+ORCID: https://orcid.org/0009-0004-2478-4054
+LinkedIn: https://sk.linkedin.com/in/eva-ticina-088a04206

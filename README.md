@@ -28,7 +28,9 @@ My current research interests include:
 - This paper presents an explainable AI-driven AML triage system that ranks, explains, and prioritizes suspicious blockchain transaction subgraphs under limited analyst review capacity.
 
 3. A Proposal for AI-Driven Method for Strategic Business Decision-Making
-- 
+- This paper proposes using AI to improve the business decision-making process, implemented within the Dara framework using the CausalNex model and integrating the interpretation of model results via ChatGPT-4.
+
+4. 
 
 ## Contact
 

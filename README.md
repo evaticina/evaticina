@@ -24,5 +24,5 @@ My current research interests include:
 ticina1@uniba.sk<br>
 evaticina@gmail.com
 
-ORCID: https://orcid.org/0009-0004-2478-4054
+ORCID: https://orcid.org/0009-0004-2478-4054<br>
 LinkedIn: https://sk.linkedin.com/in/eva-ticina-088a04206
